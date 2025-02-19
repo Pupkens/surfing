@@ -69,12 +69,12 @@ body {
 
 .menu__list {
     display: flex;
-    color: #0A507A;
-    gap: 40px;
+    color: red;
+    gap: 100px;
 }
 
 .header__phone {
-    color: #fff;
+    color: green;
     display: flex;
     align-items: center;
     gap: 10px;
